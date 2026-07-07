@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZPIRCOB</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+    <STEXT>Pirámide de cobranza</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>La fecha hasta &amp; excede el año de última ejecución. Maxima fecha &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Debe completar clase de documento &amp; en STVARV</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Error al actualizar tabla sumatoria documentos de ventas período</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>No se encontraron datos para tratar</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Clases de documentos no actualizadas en STVARV</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Proceso finalizado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>La fecha/hora hasta &amp;1/&amp;2 anterior a última ejecución &amp;3/&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPIRCOB</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>No se encontraron datos para la selección ingresada</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
